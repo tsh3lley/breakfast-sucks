@@ -1,0 +1,8 @@
+notes:
+
+didnt allow duplicate items in multiple categories
+used medium french fries because there is no hash brown size
+disallowed deserts
+
+possible errors:
+same number of 'value' items on both?
