@@ -1,4 +1,4 @@
-#I hate breakfast
+#I Hate Breakfast
 I've hated breakfast for a long time now. I can't count how many times I've tried to get food, and stores were either closed or only serving breakfast. While I'd like to have Chipotle at 8AM, I understand their need to run a business. There probably aren't enough people like me who would show up at 8AM to justify opening the store, or they would do it.
 
 The thing that I will never understand, however, is why so many people like the menu items that fast food chains serve for breakfast. I will eat mcnuggets or a hamburger at any time of day, so why am I confined to buttery, bread-heavy bs until 10:30AM? Maybe people don't like breakfast at all... maybe the evil congolmerates have tricked us into thinking that only a madman would eat a burger in the morning... I wanted to find out.
@@ -28,5 +28,6 @@ So far, it seems like lunch has more protien and mass(g) per dollar, while givin
 
 ###Sources:
 I got pricing from [Fast Food Menu Prices](http://www.fastfoodmenuprices.com/mcdonalds-prices/), which seems accurate based on what I've seen at my local store.
+
 I got nutrition info from [pffy's awesome repo](https://github.com/pffy/data-mcdonalds-nutritionfacts).
 
