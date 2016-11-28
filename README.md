@@ -14,9 +14,9 @@ All I really did was combine pricing and nutrition info (sources below), and cle
 **g/$** | 61.6 | 64.7
 **cal/$** | 183.6 | 148.6
 **carbs/$** | 17.1 | 12.5
-**protien/$** | 6.5 | 8.2
+**protein/$** | 6.5 | 8.2
 
-So far, it seems like lunch has more protien and mass(g) per dollar, while giving you less calories and carbs (bread and butter, literally). More to follow
+So far, it seems like lunch has more protein and mass(g) per dollar, while giving you less calories and carbs (bread and butter, literally). More to follow
 
 ###Methodology
 - I didnt allow duplicate items in multiple categories
