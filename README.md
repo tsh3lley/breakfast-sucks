@@ -13,10 +13,38 @@ All I really did was combine pricing and nutrition info (sources below), and cle
 --- | --- | ---
 **g/$** | 61.6 | 64.7
 **cal/$** | 183.6 | 148.6
+**sfat/$** | 4.0 | 2.1
+**tfat/$** | .05 | .11
+**chol/$** | 53.5 | 23.5
+**salt/$** | 393.4 | 310.7
 **carbs/$** | 17.1 | 12.5
 **protein/$** | 6.5 | 8.2
 
-So far, it seems like lunch has more protein and mass(g) per dollar, while giving you less calories and carbs (bread and butter, literally). More to follow
+So far, it seems like lunch has more protein, trans fat, and mass(g) per dollar, while giving you less calories, saturated fat, cholesterol, salt, and carbs (stuff that kills you).
+
+To get a qualitiative sense of what these stats mean, lets look at the best and worst items for each of the nutritional features. Note that in some cases, I'm using best/worse pretty loosely. More calories per dollar is not necessarily a bad thing, especially if you want to live on the cheap. 
+
+Best | Breakfast | Lunch
+--- | --- | ---
+**cal/$** | Egg White Delight | Grilled Bacon Ranch Salad
+**sfat/$** | Oatmeal | Artisan Grilled Chicken
+**tfat/$** | Multi-Item Tie | Multi-Item Tie
+**chol/$** | Hash Browns | Multi-Item Tie
+**salt/$** | Oatmeal | Med Fries
+**carbs/$** | Sausage McMuffin w/ Egg Whites| Grilled Bacon Ranch Salad
+**protein/$** | Sausage McMuffin | All $1 Burgers
+
+Worst | Breakfast | Lunch
+--- | --- | ---
+**cal/$** | Sausage Biscuit | BBQ Ranch Burger
+**sfat/$** | Sausage Biscuit | Double Cheeseburger
+**tfat/$** | Steak, Egg, & Cheese | McDouble
+**chol/$** | Big Breakfast | McDouble
+**salt/$** | Sausage Biscuit | Cheeseburger
+**carbs/$** | Cinnamon Melts | BBQ Ranch Burger
+**protein/$** | Hash Browns | Med Fries
+
+It's somewhat intuitive that a Grilled Bacon Ranch Salad is better for you than a BBQ Ranch Burger, but these tables also give you a sense of what you're getting with breakfast vs lunch. Moral of the story: don't buy a Sausage Biscuit. More to come...
 
 ###Methodology
 - I didnt allow duplicate items in multiple categories
